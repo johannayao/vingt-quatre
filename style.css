@@ -1,0 +1,136 @@
+.noir{
+    width: 80%;
+    height: 400px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 110px;
+}
+.one{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    bottom: 152px;
+}
+.deux{
+     width: 200px;
+    height: 200px;
+    background-color: black; 
+    position: relative;
+    bottom: -60px;
+    left: 50px;
+}
+.two{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    bottom: 27px;
+    left: 44px;
+    
+}
+.three{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    transform: rotate(90deg);
+    background-color: orangered;
+    position: absolute;
+    left: 85px;
+    bottom: 112px;
+    /* margin-top: -108px;
+    margin-left: 85px; */
+}
+.for{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    right: 117px;
+    bottom: -13px;
+    transform: rotate(90deg);
+    
+}
+.five{
+    width: 166px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    top: 255px;
+    left: 0px;
+}
+ .un{
+    width: 160px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    left: 270px;
+    bottom: -188px;
+} 
+.six{
+    width: 150px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: red;
+    position: absolute;
+}
+.quatre{
+    width: 260px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    left: 430px;
+    bottom: -20px;
+}
+.seven{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    bottom: 120px;
+    transform: rotate(90deg)
+}
+.seventy{
+    width: 120px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    bottom: 35px;
+    left: 40px;
+   
+}
+.height{
+    width: 291px;
+    height: 40px;
+    border: 2px dotted yellowgreen;
+    background-color: orangered;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    transform: rotate(90deg)
+   
+}
+.noir{
+    display: flex;
+    position: relative;
+}
+.text{
+    width: 94%;
+    height: 70px;
+    border: 2px solid white;
+    position: absolute;
+    left: 20px;
+    bottom: 150px;
+}
+p{
+    margin-top: 10px;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
